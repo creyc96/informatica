@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">informatica</string>
+    <string name="email">Email</string>
+    <string name="tittle">ЕГЭ ИНФОРМАТИКА</string>
+    <string name="password">Password</string>
+    <string name="prepod">Преподаватель</string>
+    <string name="student">Ученик</string>
+    <string name="signing">Авторизация</string>
+    <string name="registration">Регистрация</string>
+
+</resources>

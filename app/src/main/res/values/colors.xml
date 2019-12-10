@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#FF9E42</color>
+    <color name="ripple_effect">#393939</color>
+    <color name="btn_sign_in">#ffb065</color>
+    <color name="btn_sign_in_stroked">#ca721d</color>
+    <color name="btn_sign_in_stroke">#008577</color>
+
+    FF9E42 - светло-оранжевый
+</resources>
